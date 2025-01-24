@@ -1,4 +1,4 @@
-module github.com/goforkit/driver/sqlite
+module github.com/goforkit/sqlite
 
 go 1.20
 
