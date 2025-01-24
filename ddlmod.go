@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gorm.io/gorm/migrator"
+	"github.com/goforkit/gorm/migrator"
 )
 
 var (
